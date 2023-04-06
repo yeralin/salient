@@ -104,7 +104,7 @@ const ResponsiveAppBar = () => {
             sx={{ ml: 2, pt: 1, display: { xs: "none", md: "flex" } }}
           >
             <Link to="/#" style={{ textDecoration: "none" }}>
-              <img src="/logolong.png" height={70} />
+              <img src="/gsnc.png" height={70} />
             </Link>
           </Typography>
 
@@ -147,7 +147,7 @@ const ResponsiveAppBar = () => {
             sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}
           >
             <Link to="/#" style={{ textDecoration: "none" }}>
-              <img src="/logolong.png" height={40} />
+              <img src="/gsnc.png" height={40} />
             </Link>
           </Typography>
           <Box

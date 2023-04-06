@@ -91,7 +91,7 @@ const Form = () => {
             <BS.Col md={7}>
               <Typography>
                 <Typography
-                  variant="h4"
+                  // variant="h4"
                   // className="white-background"
                   sx={{
                     pt: 0,

@@ -108,7 +108,6 @@ const Form = () => {
               >
                 <div data-aos="fade-up" data-aos-duration="2000">
                   <Typography
-                    variant="h5"
                     align="center"
                     className="white-background"
                     sx={{

@@ -5,12 +5,10 @@ import { Login } from "./components/LoggedIn/AuthForm";
 import { Main } from "./components/Main";
 import Who from "./components/Who";
 import Home from "./components/LoggedIn/Home";
-import Blog from "./components/Blog";
-import Assignments from "./components/Assignments";
 import Tips from "./components/Tips";
 import NotFound from "./components/NotFound";
 import Clubs from "./components/Clubs";
-import Unsub from "./components/Unsub";
+import Stock from "./components/Stock";
 
 
 import { me } from "./store";
@@ -38,12 +36,9 @@ class Routes extends Component {
             <Route path="/" exact component={Main} />
             <Route path="/login" component={Login} />
             <Route path="/who" component={Who} />
-    
-            <Route path="/Assignments" component={Assignments} />
             <Route path="/Tips" component={Tips} />
             <Route path="/Clubs" component={Clubs} />
-  
-            <Route path="/Unsub" component={Unsub} />
+            <Route path="/Search/:id" component={Stock} />
             <Route path="/*">
               <NotFound />{" "}
             </Route>

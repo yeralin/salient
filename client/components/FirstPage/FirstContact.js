@@ -25,43 +25,10 @@ const FirstContact = () => {
             pl: 0,
           }}
         >
-          <BS.Row>
-            <Search />
-          </BS.Row>
 
           <BS.Row>
             <BS.Col lg={5} md={7} sm={7} xs={12}>
-              <div data-aos="fade-up" data-aos-duration="2000">
-                <Typography>
-                  <Typography
-                    variant="h5"
-                    align="center"
-                    className="white-background"
-                    sx={{
-                      pt: 3,
-                      pl: 3,
-                      pr: 3,
-                      pb: 3,
-                      justifyContent: "center",
-                    }}
-                  >
-                    <div className="fontbold">
-                      Columbia Business School Happenings
-                    </div>
-                    <br />
-                    <h4 className="font">
-                      {" "}
-                      Overloaded by everything happening at Columbia Business
-                      School?
-                      <br />
-                      <br />
-                      We here at CBS Happenings will try to consolidate and
-                      accentuate the most prominent events so you can make the
-                      most of your time here.
-                    </h4>
-                  </Typography>
-                </Typography>
-              </div>
+              <Search />
             </BS.Col>
           </BS.Row>
         </Box>

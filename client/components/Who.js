@@ -85,11 +85,7 @@ const Who = () => {
                       <Box sx={{ pb: 8, justifyContent: "center" }}>
                         {" "}
                         <div>
-                          <Typography
-                            component={"span"}
-                            variant="h4"
-                            sx={{ pl: 5, pt: 0, pb: 4 }}
-                          >
+                          <Typography sx={{ pl: 5, pt: 0, pb: 4 }}>
                             <img src="/promo.svg" height={130} />
                             <br />
                             <br />
@@ -105,8 +101,8 @@ const Who = () => {
                               Haas is looking to make the pivot from his current
                               roles as a healthcare administrator to a career in
                               real estate. A networker's networker, Haas
-                              populates, keeps track, and attends
-                              most events on the site.
+                              populates, keeps track, and attends most events on
+                              the site.
                               <br />
                               <br />
                               Hrahman24@gsb.columbia.edu{" "}
@@ -128,12 +124,7 @@ const Who = () => {
                         {" "}
                         <div>
                           <div>
-                            <Typography
-                              component={"span"}
-                              variant="h4"
-                              sx={{ pl: 5, pt: 0, pb: 4 }}
-                            >
-                              {/* <h4>Ben</h4> */}
+                            <Typography sx={{ pl: 5, pt: 0, pb: 4 }}>
                               <img src="/ops.svg" height={130} /> <br />
                               <br />
                               <h2>

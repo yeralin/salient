@@ -8,7 +8,7 @@ function Copyright() {
     <>
       {"© "}
       {/* <Link color="inherit" href="https://mui.com/"> */}
-      CBS Happenings {/* </Link>{' '} */}
+     Salient Co {/* </Link>{' '} */}
       {new Date().getFullYear()}
     </>
   );
@@ -42,7 +42,7 @@ export const Footer = () => {
                   <Grid item xs={6} sx={{ ml: 4 }}>
                     <Copyright />
                     <Box sx={{ mt: 2 }}>
-                      <Box> 665 W130th St </Box>
+                      <Box> 665 W 130th St </Box>
                       <Box>New York, New York 10027 </Box>
                     </Box>
                   </Grid>
@@ -69,8 +69,6 @@ export const Footer = () => {
                   </Box>
 
                   <Link
-                    to="/Blog"
-                    style={{ textDecoration: "none"}}
                   >
                     Contact Us
                   </Link>
@@ -81,7 +79,7 @@ export const Footer = () => {
                 </Box>
               </Grid>
               <Box sx={{ pt: 5, pl: 3 }}>
-                <img src="/logolong.png" height={120} />
+                <img src="/gsnc.png" height={120} />
               </Box>
               <Grid item>
                 <Typography variant="caption">

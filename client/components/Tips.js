@@ -189,7 +189,7 @@ const Tips = () => {
                         Indoor Bike Storage
                       </a>
                     </div>
-                    {/* <h4>20 person limit</h4> */}
+  
                     <h4>
                       Attatched to Geffen on the north side of the building
                       there is an indoor bike room. You will need to register
