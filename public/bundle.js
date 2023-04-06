@@ -46248,7 +46248,7 @@ const Stock = () => {
     className: "fontbold",
     "data-aos": "zoom-in",
     "data-aos-duration": "1000"
-  }, "Meet the team"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_mui_material_Box__WEBPACK_IMPORTED_MODULE_4__["default"], {
+  }, "The Stock page"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_mui_material_Box__WEBPACK_IMPORTED_MODULE_4__["default"], {
     sx: {
       pt: 5,
       pb: 20,
@@ -46295,7 +46295,7 @@ const Stock = () => {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     "data-aos": "fade-left",
     "data-aos-duration": "1000"
-  }, "Haas '24 and Ben '24 are two Columbia EMBA students dedicated to finding useful and relevant information for Columbia Business School students.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("br", null), "Our mission is to aggregate and link to CBS events in one convenient place. This includes speakers, club events, as well as school run activities, along witht the occasional non CBS event."))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("br", null))))))));
+  }, "tittes"))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("br", null))))))));
 };
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Stock);
 

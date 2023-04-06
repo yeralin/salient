@@ -21,7 +21,7 @@ console.log("loc", location)
               data-aos="zoom-in"
               data-aos-duration="1000"
             >
-              Meet the team
+ The Stock page
             </div>
           </Typography>
         </Box>
@@ -50,15 +50,7 @@ console.log("loc", location)
                       <Typography align="right">
                         <h2 className="font">
                           <div data-aos="fade-left" data-aos-duration="1000">
-                            Haas '24 and Ben '24 are two Columbia EMBA students
-                            dedicated to finding useful and relevant information
-                            for Columbia Business School students.
-                            <br />
-                            <br />
-                            Our mission is to aggregate and link to CBS events
-                            in one convenient place. This includes speakers,
-                            club events, as well as school run activities, along
-                            witht the occasional non CBS event.
+                            tittes
                           </div>
                         </h2>
                       </Typography>
